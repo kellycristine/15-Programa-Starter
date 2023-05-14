@@ -1,0 +1,23 @@
+Chegou a hora de aplicar o conhecimento adquirido em nosso primeiro
+encontro. Lembrando sempre que os exercícios e desafios serão nossos
+principais indicadores sobre o conhecimento de vocês, tanto para
+ajudá-los como na hora do direcionamento para as vagas.
+
+Crie uma página HTML contendo:
+- Uma foto sua
+- Nome
+- Idade
+- E-mail
+- Cidade e Estado
+- Nome do programa de formação
+- O que te define;
+- Conhecimentos em programação;
+- Onde quer chegar: aqui você pode escrever sobre suas expectativas
+quanto ao curso e a futura profissão de desenvolvedor Web Full
+Stack.
+
+Tente utilizar todas as tags que aprendemos até aqui e seja criativo!
+
+Este exercício deverá ser postado na Class até o horário estipulado da
+tarefa na plataforma. Para que possamos construir uma base sólida de
+aprendizado é preciso praticar. Bora implementar tudo isso! 🚀
