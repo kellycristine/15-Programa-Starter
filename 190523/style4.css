@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: gray;
+    position: relative;
+}
+
+
+.D1 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.D2 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 110px;
+    bottom: 0;
+}
+.D3 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 220px;
+    bottom: 0;
+}
+.D4 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 110px;
+}
+.D5 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    bottom: 220px;
+}
+.D6{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 110px;
+    bottom: 110px;
+}
+
+.E1{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.E2 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 110px;
+    top: 0;
+}
+.E3 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 220px;
+    top: 0;
+}
+.E4 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 110px;
+}
+.E5 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 220px;
+}
+.E6 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 110px;
+    top: 110px;
+}

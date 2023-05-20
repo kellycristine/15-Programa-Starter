@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-color: gray;
+}
+
+div {
+    background-color: black;
+    color: aliceblue;
+    overflow: hidden;
+}
+p {
+    font-size: 2rem;
+}
+
+.dA {
+    border-radius: 5vh;
+    text-align: right; 
+    width: 150vh;
+    height: 100px;
+    margin-top: 120px;
+    margin-left: 180px;
+    padding: 30px 10px;
+    text-transform: uppercase;
+}
+
+.dB {
+    border: 2px solid red;
+    padding: 10px;
+    text-align: left;
+    width: 150vh;
+    height: 100px;
+    margin-top: 120px;
+    margin-left: 180px;
+    overflow-y: scroll ; 
+}
